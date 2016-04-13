@@ -1,0 +1,28 @@
+name: davidprova
+favicon: null
+layout_spectrum: 0.44901813054457307
+typography_spectrum: 0.5939854618627578
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5627681310288608
+  lightness: 0.7153809042647481
+  saturation: 0.41670046537183225
+  rhythmicContrast: 0.0636387683916837
+purpose: []
